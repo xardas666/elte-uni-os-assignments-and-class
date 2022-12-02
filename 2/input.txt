@@ -1,0 +1,8 @@
+Barátfa,Tapsi,1
+Lovas,Hapsi,1
+Szula,Irgum,1
+Kígyós-patak,Burgum,1
+Malom telek,Szeretem,1
+Páskom,A,1
+Káposztás kert,Krumplit,1
+Páskom,A,2
